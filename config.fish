@@ -21,6 +21,7 @@ function fish_prompt
 	printf "] "
 end
 
+
 abbr fishconfig "nano ~/.config/fish/config.fish"
 abbr startserver "sudo /opt/lamp/lamp/ start"
 abbr stopserver "sudo /opt/lamp/lamp/ stop"

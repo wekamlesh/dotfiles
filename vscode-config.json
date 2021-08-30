@@ -1,0 +1,26 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Noctis Uva",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 25,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "block",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#FFA500",
+        "terminalCursor.foreground": "#FFA500"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "explorer.sortOrder": "type",
+    "files.trimFinalNewlines": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.letterSpacing": 0.6,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "workbench.startupEditor": "newUntitledFile"
+}
